@@ -36,9 +36,6 @@ The internship lasts **1 month** and includes working on projects so the intern 
   - Exploratory data analysis (EDA)
   - Visualization techniques using Seaborn and Matplotlib
   - Analyzing correlations and getting useful insights from features
-- **Tools Used**: Python, Pandas, Seaborn, Matplotlib
-- 📎[Link to Code](./Task1_Titanic_Analysis.ipynb)  
-- 🎥 [Link to Demo Video](#) *(Add your video link here)*
 
 ---
 
